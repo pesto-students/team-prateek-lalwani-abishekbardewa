@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link href="style.css" rel="stylesheet" type="text/css" />
+		<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;600;800&display=swap" rel="stylesheet" />
+		<title>Image Generator</title>
+	</head>
+	<body>
+		<main>
+			<section class="image-generator">
+				<h1 class="title">Image Generator</h1>
+				<div class="input-container">
+					<label for="promptInput">Image Prompt</label>
+					<input type="text" id="promptInput" class="input-field" />
+					<p class="error-message">This field is required.</p>
+				</div>
+				<button type="button" id="generateButton" class="generate-button">Generate Image</button>
+			</section>
+			<section id="imgContainer" class="image-container">
+				<div class="spinner"></div>
+				<p class="placeholder-text">Your image will be here once generated.</p>
+			</section>
+		</main>
+		<script src="main.js"></script>
+	</body>
+</html>

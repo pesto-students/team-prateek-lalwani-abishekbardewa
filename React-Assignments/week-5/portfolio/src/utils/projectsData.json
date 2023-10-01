@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"img": "project1.jpg",
+		"title": "Project 1",
+		"description": "This is the description for Project 1. Praesent nec commodo erat. Aliquam a magna in nibh ullamcorper porta. Nulla dictum porta rhoncus. Maecenas euismod iaculis dolor eget maximus. Fusce vitae nulla justo. Vestibulum sagittis vitae libero in ultricies. Phasellus fringilla interdum congue."
+	},
+	{
+		"id": 2,
+		"img": "project2.jpg",
+		"title": "Project 2",
+		"description": "This is the description for Project 2. Praesent nec commodo erat. Aliquam a magna in nibh ullamcorper porta. Nulla dictum porta rhoncus. Maecenas euismod iaculis dolor eget maximus. Fusce vitae nulla justo. Vestibulum sagittis vitae libero in ultricies. Phasellus fringilla interdum congue."
+	},
+	{
+		"id": 3,
+		"img": "project3.jpg",
+		"title": "Project 3",
+		"description": "This is the description for Project 3. Praesent nec commodo erat. Aliquam a magna in nibh ullamcorper porta. Nulla dictum porta rhoncus. Maecenas euismod iaculis dolor eget maximus. Fusce vitae nulla justo. Vestibulum sagittis vitae libero in ultricies. Phasellus fringilla interdum congue."
+	},
+	{
+		"id": 4,
+		"img": "project4.jpg",
+		"title": "Project 4",
+		"description": "This is the description for Project 4. Praesent nec commodo erat. Aliquam a magna in nibh ullamcorper porta. Nulla dictum porta rhoncus. Maecenas euismod iaculis dolor eget maximus. Fusce vitae nulla justo. Vestibulum sagittis vitae libero in ultricies. Phasellus fringilla interdum congue."
+	}
+]

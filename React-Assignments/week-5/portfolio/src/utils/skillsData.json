@@ -1,0 +1,28 @@
+[
+	{ "id": 1, "title": "Languages", "skills": ["JavaScript", "HTML", "CSS"] },
+	{
+		"id": 2,
+		"title": "Framework",
+		"skills": [
+			"ReactJS",
+			"NextJS",
+			"Angular",
+			"Ionic",
+			"React Native",
+			"Node.js",
+			"MongoDB",
+			"Mongoose",
+			"Redux",
+			"Redux-Toolkit",
+			"REST API",
+			"TypeScript",
+			"Bootstrap",
+			"Materialize",
+			"Flexbox",
+			"Styled-Component",
+			"SASS",
+			"Material-UI"
+		]
+	},
+	{ "id": 3, "title": "Tools", "skills": ["Git", "Bitbucket", "Postman", "Chrome Developer Tools"] }
+]

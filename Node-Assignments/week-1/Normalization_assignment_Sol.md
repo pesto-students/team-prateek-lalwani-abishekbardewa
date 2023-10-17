@@ -78,7 +78,6 @@ As we had composite primary key (Employee ID, Project ID), other non primary key
 | 001        | Project A    | 2023-01-15 | 2023-06-30 |
 | 002        | Project B    | 2023-04-01 | 2023-08-31 |
 | 003        | Project C    | 2023-06-15 | 2023-11-30 |
-| 002        | Project B    | 2023-04-20 | 2023-07-31 |
 
 ### Step 3: Third Normal Form (3NF)
 

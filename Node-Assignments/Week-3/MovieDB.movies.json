@@ -1,0 +1,138 @@
+[{
+  "_id": {
+    "$oid": "65326abd0810a1061e3c8b94"
+  },
+  "title": "Inception",
+  "releaseYear": 2010,
+  "genre": "Science Fiction",
+  "director": [
+    "65326b0a0810a1061e3c8b9e"
+  ],
+  "actors": [
+    "65326b470810a1061e3c8ba7"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65326abd0810a1061e3c8b95"
+  },
+  "title": "The Shawshank Redemption",
+  "releaseYear": 1994,
+  "genre": "Drama",
+  "director": [
+    "65326b0a0810a1061e3c8b9f"
+  ],
+  "actors": [
+    "65326b470810a1061e3c8ba8"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65326abd0810a1061e3c8b96"
+  },
+  "title": "Pulp Fiction",
+  "releaseYear": 1994,
+  "genre": "Crime",
+  "director": [
+    "65326b0a0810a1061e3c8ba0"
+  ],
+  "actors": [
+    "65326b470810a1061e3c8ba9"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65326abd0810a1061e3c8b97"
+  },
+  "title": "The Dark Knight",
+  "releaseYear": 2008,
+  "genre": "Action",
+  "director": [
+    "65326b0a0810a1061e3c8b9e"
+  ],
+  "actors": [
+    "65326b470810a1061e3c8baa"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65326abd0810a1061e3c8b98"
+  },
+  "title": "Forrest Gump",
+  "releaseYear": 1994,
+  "genre": "Drama",
+  "director": [
+    "65326b0a0810a1061e3c8ba6"
+  ],
+  "actors": [
+    "65326b470810a1061e3c8bab"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65326abd0810a1061e3c8b99"
+  },
+  "title": "Gladiator",
+  "releaseYear": 2000,
+  "genre": "Action",
+  "director": [
+    "65326b0a0810a1061e3c8ba1"
+  ],
+  "actors": []
+},
+{
+  "_id": {
+    "$oid": "65326abd0810a1061e3c8b9a"
+  },
+  "title": "Avatar",
+  "releaseYear": 2009,
+  "genre": "Science Fiction",
+  "director": [
+    "65326b0a0810a1061e3c8ba2"
+  ],
+  "actors": [
+    "65326b470810a1061e3c8bac"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65326abd0810a1061e3c8b9b"
+  },
+  "title": "The Godfather",
+  "releaseYear": 1972,
+  "genre": "Crime",
+  "director": [
+    "65326b0a0810a1061e3c8ba3"
+  ],
+  "actors": [
+    "65326b470810a1061e3c8bad"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65326abd0810a1061e3c8b9c"
+  },
+  "title": "The Matrix",
+  "releaseYear": 1999,
+  "genre": "Science Fiction",
+  "director": [
+    "65326b0a0810a1061e3c8ba4"
+  ],
+  "actors": [
+    "65326b470810a1061e3c8bae"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65326abd0810a1061e3c8b9d"
+  },
+  "title": "Schindler's List",
+  "releaseYear": 1993,
+  "genre": "Drama",
+  "director": [
+    "65326b0a0810a1061e3c8ba5"
+  ],
+  "actors": [
+    "65326b470810a1061e3c8baf"
+  ]
+}]

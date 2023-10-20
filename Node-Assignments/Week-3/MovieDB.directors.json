@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "65326b0a0810a1061e3c8b9e"
+  },
+  "name": "Christopher Nolan",
+  "nationality": "British",
+  "moviesDirected": [
+    "65326abd0810a1061e3c8b94",
+    "65326abd0810a1061e3c8b97"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65326b0a0810a1061e3c8b9f"
+  },
+  "name": "Frank Darabont",
+  "nationality": "American",
+  "moviesDirected": [
+    "65326abd0810a1061e3c8b95"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65326b0a0810a1061e3c8ba0"
+  },
+  "name": "Quentin Tarantino",
+  "nationality": "American",
+  "moviesDirected": [
+    "65326abd0810a1061e3c8b96"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65326b0a0810a1061e3c8ba1"
+  },
+  "name": "Ridley Scott",
+  "nationality": "British",
+  "moviesDirected": [
+    "65326abd0810a1061e3c8b99"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65326b0a0810a1061e3c8ba2"
+  },
+  "name": "James Cameron",
+  "nationality": "Canadian",
+  "moviesDirected": [
+    "65326abd0810a1061e3c8b9a"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65326b0a0810a1061e3c8ba3"
+  },
+  "name": "Francis Ford Coppola",
+  "nationality": "American",
+  "moviesDirected": [
+    "65326abd0810a1061e3c8b9b"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65326b0a0810a1061e3c8ba4"
+  },
+  "name": "The Wachowskis",
+  "nationality": "American",
+  "moviesDirected": [
+    "65326abd0810a1061e3c8b9c"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65326b0a0810a1061e3c8ba5"
+  },
+  "name": "Steven Spielberg",
+  "nationality": "American",
+  "moviesDirected": [
+    "65326abd0810a1061e3c8b9d"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65326b0a0810a1061e3c8ba6"
+  },
+  "name": "Robert Zemeckis",
+  "nationality": "American",
+  "moviesDirected": [
+    "65326abd0810a1061e3c8b98"
+  ]
+}]

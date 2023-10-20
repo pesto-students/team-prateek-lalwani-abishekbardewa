@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "65326b470810a1061e3c8ba7"
+  },
+  "name": "Leonardo DiCaprio",
+  "nationality": "American",
+  "moviesActedIn": [
+    "65326abd0810a1061e3c8b94"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65326b470810a1061e3c8ba8"
+  },
+  "name": "Morgan Freeman",
+  "nationality": "American",
+  "moviesActedIn": [
+    "65326abd0810a1061e3c8b95"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65326b470810a1061e3c8ba9"
+  },
+  "name": "John Travolta",
+  "nationality": "American",
+  "moviesActedIn": [
+    "65326abd0810a1061e3c8b96"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65326b470810a1061e3c8baa"
+  },
+  "name": "Christian Bale",
+  "nationality": "British",
+  "moviesActedIn": [
+    "65326abd0810a1061e3c8b97"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65326b470810a1061e3c8bab"
+  },
+  "name": "Tom Hanks",
+  "nationality": "American",
+  "moviesActedIn": [
+    "65326abd0810a1061e3c8b98"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65326b470810a1061e3c8bac"
+  },
+  "name": "Sam Worthington",
+  "nationality": "Australian",
+  "moviesActedIn": [
+    "65326abd0810a1061e3c8b9a"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65326b470810a1061e3c8bad"
+  },
+  "name": "Marlon Brando",
+  "nationality": "American",
+  "moviesActedIn": [
+    "65326abd0810a1061e3c8b9b"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65326b470810a1061e3c8bae"
+  },
+  "name": "Keanu Reeves",
+  "nationality": "Canadian",
+  "moviesActedIn": [
+    "65326abd0810a1061e3c8b9c"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65326b470810a1061e3c8baf"
+  },
+  "name": "Liam Neeson",
+  "nationality": "Irish",
+  "moviesActedIn": [
+    "65326abd0810a1061e3c8b9d"
+  ]
+}]
